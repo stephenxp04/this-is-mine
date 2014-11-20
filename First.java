@@ -1,7 +1,7 @@
 package super.wool;
 
 public class First {
-   public static main(String[] args) {
+   public static void main(String[] args) {
      System.out.println("sup");
    }
 }
